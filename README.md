@@ -1,6 +1,6 @@
 # ECHO - Edge Conversational Hospitality Operator
 
-An enterprise-grade, multi-tenant Edge AI voice assistant hardware and software system powered by the **ESP32-S3**, **OpenAI (Whisper, GPT-4o-mini, TTS)**, and a **Python Async WebSocket Server**.
+An enterprise-grade, multi-tenant Cloud AI voice assistant hardware and software system powered by the **ESP32-S3**, **OpenAI (Whisper, GPT-4o-mini, TTS)**, and a **Python Async WebSocket Server**.
 
 Designed for commercial and luxury environments, the system uses the ESP32-S3's factory-burned **eFuse MAC address** to securely identify each physical device. It dynamically fetches customer-specific database context (e.g., room details, guest preferences, local Wi-Fi passwords), streams bidirectional raw PCM audio with sub-second latency, and features local synthesized chimes alongside an OLED interface for facial expressions.
 
